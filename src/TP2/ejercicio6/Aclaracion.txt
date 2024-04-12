@@ -1,0 +1,3 @@
+Hacer los metodos recursivos preguntando por ==null como caso base no es correcto, lo ideal es hacerlo fuera del metodo y usar como caso base isEmpty o isLeaf.
+
+Todo depende de la implementacion de los arboles.
